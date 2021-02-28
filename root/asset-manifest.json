@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.32da44f5.chunk.css",
+    "main.js": "/static/js/main.9a0a237e.chunk.js",
+    "main.js.map": "/static/js/main.9a0a237e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6e82300d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6e82300d.js.map",
+    "static/css/2.ee121da5.chunk.css": "/static/css/2.ee121da5.chunk.css",
+    "static/js/2.56289420.chunk.js": "/static/js/2.56289420.chunk.js",
+    "static/js/2.56289420.chunk.js.map": "/static/js/2.56289420.chunk.js.map",
+    "static/js/3.7a6252b9.chunk.js": "/static/js/3.7a6252b9.chunk.js",
+    "static/js/3.7a6252b9.chunk.js.map": "/static/js/3.7a6252b9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ee121da5.chunk.css.map": "/static/css/2.ee121da5.chunk.css.map",
+    "static/css/main.32da44f5.chunk.css.map": "/static/css/main.32da44f5.chunk.css.map",
+    "static/js/2.56289420.chunk.js.LICENSE.txt": "/static/js/2.56289420.chunk.js.LICENSE.txt",
+    "static/media/Asset 4.46b084e1.png": "/static/media/Asset 4.46b084e1.png",
+    "static/media/CUE asap LOGO Black.dd2e511e.gif": "/static/media/CUE asap LOGO Black.dd2e511e.gif",
+    "static/media/Car.6f5f8ea2.svg": "/static/media/Car.6f5f8ea2.svg",
+    "static/media/Cue_logo_v2_light.e898c931.png": "/static/media/Cue_logo_v2_light.e898c931.png",
+    "static/media/Fire.af6f959b.svg": "/static/media/Fire.af6f959b.svg",
+    "static/media/Medical.05ae2de4.svg": "/static/media/Medical.05ae2de4.svg",
+    "static/media/Police.d7ce7aa7.svg": "/static/media/Police.d7ce7aa7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e82300d.js",
+    "static/css/2.ee121da5.chunk.css",
+    "static/js/2.56289420.chunk.js",
+    "static/css/main.32da44f5.chunk.css",
+    "static/js/main.9a0a237e.chunk.js"
+  ]
+}
